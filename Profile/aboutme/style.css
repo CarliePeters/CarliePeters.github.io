@@ -1,0 +1,32 @@
+/*
+Name: Carlie Peters
+Date: January 18, 2023 
+File Name: style.css 
+*/
+nav{
+	background-color:#ffcc99;
+	color: #993366;
+}
+h1{
+	background-color: #481385; 
+	color:#ffcc99;
+	font-style: oblique;
+}
+P {
+	color: #993366;
+	font-family: "Times New Roman", Times, serif;
+}
+body{
+	background-color: #fad7c3;
+}
+div {
+	background-color: #ffcc99;
+}
+header{
+	color: #D4E9E5;
+}
+#myInfo {color: #481385;
+		text-align: center;
+		background-color:#ffcc99;
+ }
+.listColor{color: #481385;}

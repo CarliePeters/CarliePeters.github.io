@@ -1,0 +1,79 @@
+
+body{
+    background-image: linear-gradient(180deg,#ffe8d0, #916491);
+}
+img
+{
+    border-style: ridge;
+    border-color: #916491;
+    border-radius: 30%;
+    width: 30%;
+    box-shadow: 10px 10px 7px #321532;
+}
+
+h1{
+    text-align: center;
+    margin-top: 2%;
+    background-color: #321532;
+    color: #ffe8d0;
+    font-family: 'Rubik Mono One', sans-serif;
+}
+h2{
+    text-align: center;
+}
+
+.projectstitle{
+    font-size: 300%;
+    font-family: 'Rubik Mono One', sans-serif;
+}
+.links{
+    list-style: none;
+    
+    color: #321532;  
+    font-size: 200%;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color:#916491;
+}
+
+
+.flex-top{
+    display: flex;
+    margin: 10px;
+    padding: 30px;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-evenly;
+}
+.flex-container {
+    display: flex;
+    background-color: #916491;
+    color: #ffe8d0;
+    margin: 10px;
+    padding: 30px;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-evenly;
+  }
+
+.flex-containertwo {
+    display: flex;
+    background-color: #ffe8d0;
+    color: #916491;
+    margin: 10px;
+    padding: 30px;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-evenly;
+  }
+h2{
+    font-size: 100%;
+}
+
+footer{
+    background-color: #ffe8d0;
+    text-align: center;
+}
